@@ -1,8 +1,5 @@
-gradio>=4.44,<6
 streamlit>=1.36
-tensorflow-cpu==2.20.0
-keras==3.13.2
-mediapipe==0.10.35
-opencv-python-headless
-numpy
+tensorflow-cpu>=2.16
+mediapipe>=0.10.14
+opencv-python-headless>=4.9
 requests
